@@ -1,0 +1,20 @@
+{
+  "name": "im",
+  "version": "1.0.0",
+  "description": "socketio im",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "socket",
+    "im"
+  ],
+  "author": "lsq",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "formidable": "^1.1.1",
+    "socket.io": "^2.0.4"
+  }
+}
